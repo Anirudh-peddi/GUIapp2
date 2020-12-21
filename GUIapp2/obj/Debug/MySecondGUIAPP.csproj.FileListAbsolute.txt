@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\MyFirstGUIAPP\MySecondGUIAPP\bin\Debug\MySecondGUIAPP.exe.config
+C:\Users\Admin\source\repos\MyFirstGUIAPP\MySecondGUIAPP\bin\Debug\MySecondGUIAPP.exe
+C:\Users\Admin\source\repos\MyFirstGUIAPP\MySecondGUIAPP\bin\Debug\MySecondGUIAPP.pdb
+C:\Users\Admin\source\repos\MyFirstGUIAPP\MySecondGUIAPP\obj\Debug\MySecondGUIAPP.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MyFirstGUIAPP\MySecondGUIAPP\obj\Debug\MySecondGUIAPP.Home_Screen.resources
+C:\Users\Admin\source\repos\MyFirstGUIAPP\MySecondGUIAPP\obj\Debug\MySecondGUIAPP.Properties.Resources.resources
+C:\Users\Admin\source\repos\MyFirstGUIAPP\MySecondGUIAPP\obj\Debug\MySecondGUIAPP.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MyFirstGUIAPP\MySecondGUIAPP\obj\Debug\MySecondGUIAPP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MyFirstGUIAPP\MySecondGUIAPP\obj\Debug\MySecondGUIAPP.exe
+C:\Users\Admin\source\repos\MyFirstGUIAPP\MySecondGUIAPP\obj\Debug\MySecondGUIAPP.pdb
+C:\Users\Admin\source\repos\MyFirstGUIAPP\MySecondGUIAPP\obj\Debug\MySecondGUIAPP.Selection.resources
